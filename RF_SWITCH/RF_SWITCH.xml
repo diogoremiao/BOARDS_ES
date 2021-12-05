@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/diogoremiao/Desktop/FEUP/ES/RF_SWITCH/RF_SWITCH.kicad_sch</source>
+    <date>2021 December 05, Sunday 18:54:41</date>
+    <tool>Eeschema (5.99.0-13051-g9e760512ac)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RF_SWITCH.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ddbf290-fc11-4cdc-9df0-61482add39e9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>205a953f-eb76-4ba6-9ccd-143e6465dbb0</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59a17131-4275-47e9-a6fb-603cd5d6e5f4</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7c55417-7a9a-4e89-a8d5-bdc264630a20</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e826153-4ddd-488f-aded-12f642f9367c</tstamps>
+    </comp>
+    <comp ref="Cox1">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8c3037a-6b9a-4adc-9a7d-b8a4889b55c5</tstamps>
+    </comp>
+    <comp ref="Cox2">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b250b41-0a70-4e6d-90d7-b1a097a7f6f6</tstamps>
+    </comp>
+    <comp ref="Cox3">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6292875a-dba4-4c37-9582-c94564eeca57</tstamps>
+    </comp>
+    <comp ref="Cox4">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7f38df6-a1ca-4c66-a6ee-1e6d9b78af53</tstamps>
+    </comp>
+    <comp ref="Cox5">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1253cbc-ba53-4b34-a7a4-33d13704c191</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0982110-2758-4782-8f4a-8d500c7d837a</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>785732f5-cf25-4e08-bf29-22a1a47ec0a7</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bab2853a-94de-4c22-a56f-b78435c6b547</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7be3a5ac-4c5c-4a4b-925f-170fd1552a90</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2899a8d5-fc19-480b-b175-df52c2553b02</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2bf3d87-9f41-42e5-bf26-1bbe32327dad</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdcb777d-d348-402d-9bcc-942ee70c1d3f</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa3ae60b-38e4-422e-a615-ff98c8ad211a</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>5V</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e63a618c-6627-4d68-b8d7-0ffb86325ab8</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10uF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58cc7535-9f82-4753-9cdb-1df64ed86707</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>10uF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e540858f-dd93-419c-a963-328038e4ee65</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>10uF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe3ab147-bb8e-4bc5-96ee-33e67eaa38a4</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>10uF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2dc2598-8cde-4856-bcb5-5f4561a8da5a</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>10uF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88af4c80-3b3a-4cc2-989f-da8a0c337e79</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>10uF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65e26aa3-c7e0-4e13-84f9-bcfea56b0669</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39c190d5-1ef9-4762-8e52-30bf5634928c</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bd66986-1c5a-433a-9faa-4fc8d257b741</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9a240f4-9a7e-47b7-b6e6-c157446a5680</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d1c519b-3f09-47de-bb43-21ee360659b7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06ee2bb5-0629-493c-a2dd-1ba4db2ea5fc</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>68</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RF_SWITCH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ced63fd-eebd-4bd9-8a2b-b68752a318f8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="DIODE">
+      <description>Diode symbol for simulation only. Pin order incompatible with official kicad footprints</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="input"/>
+        <pin num="2" name="A" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library//Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library//Device.lib</uri>
+    </library>
+    <library logical="pspice">
+      <uri>/Library/Application Support/kicad/library//pspice.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Earth">
+      <node ref="Cox1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Cox2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Cox3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Cox4" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Cox5" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="L5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="Cox5" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(Cox1-Pad1)">
+      <node ref="Cox1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(Cox2-Pad1)">
+      <node ref="Cox2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(Cox3-Pad1)">
+      <node ref="Cox3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(Cox4-Pad1)">
+      <node ref="Cox4" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(L5-Pad1)">
+      <node ref="L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
